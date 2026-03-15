@@ -1,0 +1,7 @@
+data/
+.env
+.msal_token_cache.json
+.google_token.json
+google_credentials.json
+__pycache__/
+*.pyc
